@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|c:\\users\\sammuel\\desktop\\etec\\ds\\projetorio40-main\\lojario40\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|solutionrelative:lojario40\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|c:\\users\\sammuel\\desktop\\etec\\ds\\projetorio40-main\\lojario40\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|solutionrelative:lojario40\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|c:\\users\\sammuel\\desktop\\etec\\ds\\projetorio40-main\\lojario40\\views\\produto\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|solutionrelative:lojario40\\views\\produto\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|c:\\users\\sammuel\\desktop\\etec\\ds\\projetorio40-main\\lojario40\\views\\cliente\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|solutionrelative:lojario40\\views\\cliente\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|c:\\users\\sammuel\\desktop\\etec\\ds\\projetorio40-main\\lojario40\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|solutionrelative:lojario40\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|c:\\users\\sammuel\\desktop\\etec\\ds\\projetorio40-main\\lojario40\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|solutionrelative:lojario40\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|c:\\users\\sammuel\\desktop\\etec\\ds\\projetorio40-main\\lojario40\\views\\cliente\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|solutionrelative:lojario40\\views\\cliente\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|c:\\users\\sammuel\\desktop\\etec\\ds\\projetorio40-main\\lojario40\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|solutionrelative:lojario40\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|c:\\users\\sammuel\\desktop\\etec\\ds\\projetorio40-main\\lojario40\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|solutionrelative:lojario40\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|c:\\users\\sammuel\\desktop\\etec\\ds\\projetorio40-main\\lojario40\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|solutionrelative:lojario40\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|c:\\users\\sammuel\\desktop\\etec\\ds\\projetorio40-main\\lojario40\\views\\cliente\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|solutionrelative:lojario40\\views\\cliente\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|c:\\users\\sammuel\\desktop\\etec\\ds\\projetorio40-main\\lojario40\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|solutionrelative:lojario40\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|c:\\users\\sammuel\\desktop\\etec\\ds\\projetorio40-main\\lojario40\\views\\produto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|solutionrelative:lojario40\\views\\produto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|c:\\users\\sammuel\\desktop\\etec\\ds\\projetorio40-main\\lojario40\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|solutionrelative:lojario40\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|c:\\users\\sammuel\\desktop\\etec\\ds\\projetorio40-main\\lojario40\\lojario40.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|solutionrelative:lojario40\\lojario40.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|c:\\users\\sammuel\\desktop\\etec\\ds\\projetorio40-main\\lojario40\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794624CE-1D75-4A67-9364-2C6B20B715F5}|LojaRio40\\LojaRio40.csproj|solutionrelative:lojario40\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LojaRio40\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LojaRio40\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-11T16:48:47.259Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LojaRio40\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LojaRio40\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T00:07:29.131Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Cliente\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "LojaRio40\\Views\\Cliente\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Cliente\\Cadastrar.cshtml",
+              "RelativeToolTip": "LojaRio40\\Views\\Cliente\\Cadastrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T20:24:50.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Produto\\Listar.cshtml",
+              "RelativeDocumentMoniker": "LojaRio40\\Views\\Produto\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Produto\\Listar.cshtml",
+              "RelativeToolTip": "LojaRio40\\Views\\Produto\\Listar.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T19:09:30.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Produto\\Editar.cshtml",
+              "RelativeDocumentMoniker": "LojaRio40\\Views\\Produto\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Produto\\Editar.cshtml",
+              "RelativeToolTip": "LojaRio40\\Views\\Produto\\Editar.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T19:09:11.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "LojaRio40\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "LojaRio40\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:06:55.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "LojaRio40\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Models\\Produto.cs",
+              "RelativeToolTip": "LojaRio40\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:05:54.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "LojaRio40\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "LojaRio40\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwFgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:39:06.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Cliente\\Editar.cshtml",
+              "RelativeDocumentMoniker": "LojaRio40\\Views\\Cliente\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Cliente\\Editar.cshtml",
+              "RelativeToolTip": "LojaRio40\\Views\\Cliente\\Editar.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T19:49:52.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\appsettings.json",
+              "RelativeDocumentMoniker": "LojaRio40\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\appsettings.json",
+              "RelativeToolTip": "LojaRio40\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-29T19:12:33.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "LojaRio40\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Models\\Cliente.cs",
+              "RelativeToolTip": "LojaRio40\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:32:25.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Cliente\\Listar.cshtml",
+              "RelativeDocumentMoniker": "LojaRio40\\Views\\Cliente\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Cliente\\Listar.cshtml",
+              "RelativeToolTip": "LojaRio40\\Views\\Cliente\\Listar.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T19:51:53.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Produto\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "LojaRio40\\Views\\Produto\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Produto\\Cadastrar.cshtml",
+              "RelativeToolTip": "LojaRio40\\Views\\Produto\\Cadastrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T19:11:32.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LojaRio40\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LojaRio40\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T00:08:03.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LojaRio40.csproj",
+              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\LojaRio40.csproj",
+              "RelativeDocumentMoniker": "LojaRio40\\LojaRio40.csproj",
+              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\LojaRio40.csproj",
+              "RelativeToolTip": "LojaRio40\\LojaRio40.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-16T00:07:18.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LojaRio40\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\etec\\ds\\ProjetoRio40-main\\LojaRio40\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "LojaRio40\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-11T17:06:13.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

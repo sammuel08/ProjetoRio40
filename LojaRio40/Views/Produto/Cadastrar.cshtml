@@ -1,0 +1,45 @@
+﻿@model LojaRio40.Models.Produto
+@{
+    ViewData["Title"] = "Cadastrar";
+}
+
+<h1>Cadastrar</h1>
+
+<h4>Produto</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Cadastrar" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Prodid" class="control-label"></label>
+                <input asp-for="Prodid" class="form-control" />
+                <span asp-validation-for="Prodid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Prodnome" class="control-label"></label>
+                <input asp-for="Prodnome" class="form-control" />
+                <span asp-validation-for="Prodnome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Proddescr" class="control-label"></label>
+                <input asp-for="Proddescr" class="form-control" />
+                <span asp-validation-for="Proddescr" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Enviar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-controller="Produto" asp-action="Listar">Voltar para a Lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
