@@ -1,3 +1,7 @@
+Nome da Dupla : Sammuel Alves / Miguel Maia
+
+
+
 MODEL CLIENTE
 
 Arquivo: Cliente.cs
