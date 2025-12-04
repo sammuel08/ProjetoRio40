@@ -1,4 +1,4 @@
-<h2>Model Cliente<h2/>
+MODEL CLIENTE
 
 Arquivo: Cliente.cs
 
@@ -14,7 +14,7 @@ public class Cliente
     public string? Endereco { get; set; }
 }
 
-✔ Função:
+Função:
 
 Representa um cliente.
 
@@ -22,7 +22,7 @@ Usado nas telas e nas queries do MySQL.
 
 O CPF funciona como chave de identificação.
 
-📍 Model Produto
+MODEL PRODUTO
 
 Arquivo: Produto.cs
 
@@ -38,7 +38,7 @@ public class Produto
     public string? Proddescr { get; set; }
 }
 
-✔ Função:
+Função:
 
 Representa um produto.
 
@@ -46,22 +46,19 @@ Prodid funciona como chave primária.
 
 Facilita o mapeamento com o banco de dados.
 
-🎮 2. CONTROLLERS
+                        CONTROLLERS
 
-Os Controllers fazem a ponte entre as Views, o banco de dados e as Models.
-Aqui estão toda a lógica, consultas e rotas.
-
-📌 ClienteController
+        ClienteController
 
 O controller responsável por todas as funções do CRUD de Cliente.
 
-🔹 Cadastrar (GET)
+     Cadastrar (GET)
 
 public IActionResult Cadastrar()
 
 Apenas abre a View de cadastro.
 
-🔹 Cadastrar (POST)
+     Cadastrar (POST)
 
 public IActionResult Cadastrar(Cliente cliente)
 
@@ -71,7 +68,7 @@ Insere um novo cliente no banco MySQL:
 
 INSERT INTO cliente (CPF, Nome, Endereco)
 
-🔹 Listar
+             LISTAR
 
 public IActionResult Listar()
 
@@ -81,7 +78,7 @@ Lê todo mundo da tabela cliente.
 
 Carrega na view em formato de lista.
 
-🔹 Editar (GET)
+     Editar (GET)
 
 public IActionResult Editar(string id)
 
@@ -89,7 +86,7 @@ Busca um único cliente pelo CPF.
 
 Preenche os campos para edição.
 
-🔹 Editar (POST)
+    Editar (POST)
 
 public IActionResult Editar(Cliente cliente)
 
@@ -97,7 +94,7 @@ Atualiza no MySQL:
 
 UPDATE cliente SET Nome=@Nome, Endereco=@Endereco WHERE CPF=@CPF
 
-🔹 Deletar
+            DELETAR
 
 public IActionResult Deletar(string id)
 
@@ -105,45 +102,43 @@ Executa o DELETE no banco:
 
 DELETE FROM cliente WHERE CPF=@CPF
 
-📌 ProdutoController
+            ProdutoController
 
 Controla o CRUD de Produto.
 
-🔹 Cadastrar (GET)
+     Cadastrar (GET)
 
 Abre a tela de cadastro.
 
-🔹 Cadastrar (POST)
+     Cadastrar (POST)
 
 Insere no MySQL:
 
 INSERT INTO produto (Prodnome, Proddescr)
 
-🔹 Listar
+         Listar
 
 Carrega todos os produtos usando SELECT.
 
-🔹 Editar (GET)
+    Editar (GET)
 
 Busca um produto pelo ID (Prodid).
 
-🔹 Editar (POST)
+    Editar (POST)
 
 Atualiza no MySQL:
 
 UPDATE produto SET Prodnome=@Prodnome, Proddescr=@Proddescr WHERE Prodid=@Prodid
 
-🔹 Deletar
+Deletar
 
 Remove produto pelo ID.
 
-🖼️ 3. VIEWS
+            VIEWS
 
-As Views são as telas que o usuário vê.
-Foi utilizado Razor Pages.
-
-📌 Views do Cliente
-✔ Cadastrar.cshtml
+        Views do Cliente
+        
+    Cadastrar.cshtml
 
 Formulário para adicionar cliente.
 
@@ -151,13 +146,13 @@ Campos: CPF, Nome, Endereço.
 
 Envia via POST para Cliente/Cadastrar.
 
-✔ Editar.cshtml
+    Editar.cshtml
 
 Tela para editar um cliente existente.
 
 Campos carregam automaticamente com as informações do banco.
 
-✔ Listar.cshtml
+    Listar.cshtml
 
 Tabela com todos os clientes.
 
@@ -165,26 +160,33 @@ Links para Editar e Deletar.
 
 Possui botão para adicionar novo cliente.
 
-📌 Views do Produto
-✔ Cadastrar.cshtml
+
+            Views do Produto
+
+            
+    Cadastrar.cshtml
 
 Formulário para adicionar produto.
 
 Campos: Prodid, Prodnome, Proddescr.
 
-✔ Editar.cshtml
+    Editar.cshtml
 
 Tela para edição de produto.
 
 O campo Prodid fica travado (readonly).
 
-✔ Listar.cshtml
+    Listar.cshtml
 
 Mostra todos os produtos em tabela.
 
 Possui links de edição e exclusão.
 
-🗄️ 4. BANCO DE DADOS – appsettings.json
+
+
+     BANCO DE DADOS – appsettings.json
+
+     
 
 Arquivo:
 
@@ -202,7 +204,7 @@ Arquivo:
   "AllowedHosts": "*"
 }
 
-✔ Função:
+    Função:
 
 Configura a conexão com o MySQL.
 
@@ -210,18 +212,4 @@ O controller usa essa string para abrir a conexão:
 
 _configuration.GetConnectionString("DefaultConnection")
 
-🚀 5. FUNCIONAMENTO DO PROJETO
 
-O fluxo é simples:
-
-O usuário acessa uma rota (/Cliente/Listar, /Produto/Cadastrar...)
-
-O controller executa a ação.
-
-Se precisar, o controller consulta o banco via MySqlConnection.
-
-Preenche uma Model.
-
-Envia a Model para a View.
-
-A View exibe ou envia dados de volta para o servidor.
